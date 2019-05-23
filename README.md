@@ -13,4 +13,4 @@ npm install inquirer
 ```
 node main.js
 ```
-4. Answer prompt in the command line# ballclock
+4. Answer prompt in the command line
